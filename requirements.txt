@@ -1,10 +1,9 @@
+tensorflow
 flask
-numpy
 pandas
 gunicorn
 requests
 flask-cors
-tensorflow
 imutils
 opencv-python
 keras
