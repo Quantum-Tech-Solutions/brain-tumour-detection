@@ -1,6 +1,5 @@
 tensorflow==2.4.1
 flask
-gunicorn
 requests
 flask-cors
 opencv-python
