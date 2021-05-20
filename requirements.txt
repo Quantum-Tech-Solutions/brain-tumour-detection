@@ -1,10 +1,6 @@
 flask
 numpy
 pandas
-seaborn
-scikit-learn
-matplotlib
-sklearn
 gunicorn
 requests
 flask-cors
